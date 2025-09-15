@@ -1,0 +1,10 @@
+Customer: Shravani
+
+Pizza x 5 = Rs.600
+
+Subtotal       = Rs.600
+GST (5%)       = Rs.30.00
+Discount (10%) = -Rs.60.00
+Total Bill     = Rs.570.00
+
+✅ Thank you for visiting our cafe!
