@@ -1,6 +1,3 @@
-# -- coding: utf-8 --
-# Cafe Management System (Beginner Level)
-
 # Menu Items with Prices
 menu = {
     "Tea": 10,
@@ -82,4 +79,5 @@ def main():
 
 # Run program
 if __name__ == "__main__":
+
     main()
